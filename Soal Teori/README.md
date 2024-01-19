@@ -51,6 +51,6 @@ Untuk database, aplikasi ini menggunakan **PostgreSQL**. Mengapa memilih Postgre
 
 #### Diagram Database
 
-Untuk melihat lebih detail diagram database, bisa dengan mengakses file PDF di **./assest/db_schema.pdf** atau bisa kunjungi ke link: [https://dbdocs.io/osvaldosilitonga/PT-Qoin-Digital-Indonesia](https://dbdocs.io/osvaldosilitonga/PT-Qoin-Digital-Indonesia?view=relationships)
+Untuk melihat lebih detail diagram database, bisa dengan mengakses file PDF di `./assest/db_schema.pdf` atau bisa kunjungi ke link: [https://dbdocs.io/osvaldosilitonga/PT-Qoin-Digital-Indonesia](https://dbdocs.io/osvaldosilitonga/PT-Qoin-Digital-Indonesia?view=relationships)
 
 ![diagram database](./assets/db_schema.png)
